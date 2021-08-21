@@ -10,7 +10,7 @@ Data since Nanodegree project on github commands
 My project is about how to ubload my Python project in the github
 
 ### Files used
-I used the excel fhiles and .py python for the python project
+I used the excel fhiles and .py extention for the Python project
 
 ### Credits
 I forked the project from https://github.com/udacity/pdsnd_github
