@@ -28,7 +28,7 @@ def get_filters():
             city = CITY_DATA[city_name.lower()]
             break
         else:
-            #if the user input a wrong input will keep ask him to try agin
+            #if the user input a wrong input will keep ask him to try agin untill he enter a viled input
             print("Invlid input try agin!\n")
 
     # TO DO: get user input for month (all, january, february, ... , june)
@@ -39,7 +39,7 @@ def get_filters():
             month = month_name.lower()
             break
         else:
-            #if the user input a wrong input will keep ask him to try agin
+            #if the user input a wrong input will keep ask him to try agin untill he enter a viled input
             print("Invlid input try agin!\n")
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
@@ -50,7 +50,7 @@ def get_filters():
             day = day_name.lower()
             break
         else:
-            #if the user input a wrong input will keep ask him to try agin
+            #if the user input a wrong input will keep ask him to try agin untill he enter a viled input
             print("Invlid input try agin!\n")
 
     print('-'*40)
