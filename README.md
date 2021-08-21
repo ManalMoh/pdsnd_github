@@ -1,17 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+I created this project on 21/8/2021
 
 ### Project Title
-Replace the Project Title
+Data Since Nanodegree project on udacity
 
 ### Description
-Describe what your project is about and what it does
+My project is about how to ubload my Python project on the github using Git commands
 
 ### Files used
-Include the files used
+I used the excel files and the .py files for the python projec
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I had forked the project from https://github.com/udacity/pdsnd_github
 
